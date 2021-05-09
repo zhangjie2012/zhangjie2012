@@ -6,4 +6,4 @@
 
 给自己做的小程序 :point_down: :point_down: :point_down:
 
-<img src="https://open1-1258639359.cos.ap-shanghai.myqcloud.com/common/gh_5fc7ba7cc992_258.jpg" alt="小程序：节日倒数" width="150"> <img src="https://open1-1258639359.cos.ap-shanghai.myqcloud.com/common/gh_1de4279fd124_258.jpg" alt="小程序：小桔日记" width="150">
+<img src="https://open1-1258639359.cos.ap-shanghai.myqcloud.com/common/gh_countdown.jpg" alt="小程序：节日倒数" width="150"> <img src="https://open1-1258639359.cos.ap-shanghai.myqcloud.com/common/gh_diary.jpg" alt="小程序：小桔日记" width="150">
